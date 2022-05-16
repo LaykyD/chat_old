@@ -28,7 +28,7 @@
                 <MenuItem text="Exit" onAction="#mockAction"/>
             </Menu>
             <Menu text="Help">
-                <MenuItem text="Help" onAction="#mockAction"/>
+                <MenuItem text="Help" onAction="#openHelpWindow"/>
             </Menu>
         </MenuBar>
 
